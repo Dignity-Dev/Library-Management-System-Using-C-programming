@@ -1,6 +1,6 @@
 # Library-Management-System-Using-C-programming
-Console Application using C programming To save Student records in a Library Management System.
-Backend:-File System.(Binary Format)
+Console Application using C programming To save Student records in a Library Management System.<br/>
+Backend:-File System.(Binary Format)<br/>
 Outputs->
 ![alt text](https://user-images.githubusercontent.com/23555312/42038602-f94622a8-7b08-11e8-9e7b-402958c345e0.png)
 2nd Output:-
