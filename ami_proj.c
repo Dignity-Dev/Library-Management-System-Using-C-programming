@@ -1,7 +1,7 @@
 
 
 									//Advanced C programming Project Semester 2 
-									//BY AM.AR.U316BCA015 Amit Krishna
+									
 									//Amrita University
 									//Project Topic-Library Management System
 									//concepts used files,Structure,Functions.
